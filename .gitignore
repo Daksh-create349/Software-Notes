@@ -1,0 +1,27 @@
+# Generation files & scripts
+builder_core.py
+content_days_*.py
+generate_all.py
+generate_screenshots.py
+generate_bdd_screenshots.py
+all_days_summary.txt
+all_parsed_tasks.txt
+extracted_tasks.txt
+tasks_detailed.txt
+
+# Generated images & screenshots
+Screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Practical sandboxes (hosted in separate GitHub repositories)
+Git_Practicals/
+BDD_Practicals/
+
+# OS and Python artifacts
+.DS_Store
+*/.DS_Store
+__pycache__/
+*.pyc
+*.tmp
